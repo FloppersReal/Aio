@@ -7,7 +7,7 @@ const lang = require('../../events/loadLanguage');
 const activeSessions = new Map();
 
 // --- Configuration for the dedicated Gagstock channel ---
-const GAGSTOCK_CHANNEL_ID = 'YOUR_GAGSTOCK_CHANNEL_ID_HERE'; // <--- !!! REPLACE THIS WITH YOUR ACTUAL CHANNEL ID !!!
+const GAGSTOCK_CHANNEL_ID = '1384184411058081937'; // <--- !!! REPLACE THIS WITH YOUR ACTUAL CHANNEL ID !!!
 
 
 // Helper function for countdown
